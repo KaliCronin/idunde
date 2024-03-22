@@ -1,0 +1,62 @@
+{
+  "name": "idunde",
+  "description": "Grunt plugin for A JavaScript parser, mangler/compressor and beautifier toolkit for ES6+.",
+  "version": "1.7.0",
+  "author": "MagnoliaWyman",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaliCronin/idunde.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KaliCronin/idunde.git/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/adascal/grunt-terser/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "peerDependencies": {
+    "grunt": "1.x",
+    "terser": "5.x"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-nodeunit": "^2.0.0",
+    "grunt-eslint": "^23.0.0"
+  },
+  "keywords": [
+    "eos",
+    "ea",
+    "minify",
+    "terser",
+    "nemo",
+    "dolor",
+    "ea",
+    "dignissimos",
+    "voluptas",
+    "minifier",
+    "javascript",
+    "ecmascript",
+    "sequi",
+    "magni",
+    "es7",
+    "es8",
+    "es2015",
+    "suscipit",
+    "ex",
+    "distinctio",
+    "await"
+  ],
+  "dependencies": {
+    "essefuga": "^1.0.0",
+    "grunt": "1.x"
+  }
+}
